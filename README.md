@@ -144,3 +144,7 @@ Speed levels
 Mobile-friendly UI
 
 Pull Requests are welcome!
+
+
+
+By: Mehmet Ali Işık
