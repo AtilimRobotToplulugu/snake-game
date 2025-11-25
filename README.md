@@ -84,11 +84,14 @@ It is beginner-friendly, easy to run, and fully explained for students.
 This project uses only built-in Python libraries:
 
 turtle
+
 time
+
 random
 
 
 ➡ No extra installation needed.
+
 ➡ No pip install required.
 
 Only requirement: Python must be installed.
@@ -112,10 +115,15 @@ The game window will launch.
 
 ### 🎮 Controls
 Key	Action
+
 ⬆ Up Arrow	Move Up
+
 ⬇ Down Arrow	Move Down
+
 ⬅ Left Arrow	Move Left
+
 ➡ Right Arrow	Move Right
+
 ### 📄 Files Included
 
 snake_game.py → Playable game
@@ -144,7 +152,6 @@ Speed levels
 Mobile-friendly UI
 
 Pull Requests are welcome!
-
 
 
 By: Mehmet Ali Işık
