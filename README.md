@@ -50,7 +50,7 @@ Tuş	İşlev
 ➡ Sağ Ok	Sağ
 
 ### 📄 Dosyalar
-snake_game.py → Oyunun çalışır versiyonu
+snake.py → Oyunun çalışır versiyonu
 
 Snake_Game_Full_Explanation.docx → İngilizce/Türkçe detaylı açıklama
 
@@ -126,7 +126,7 @@ Key	Action
 
 ### 📄 Files Included
 
-snake_game.py → Playable game
+snake.py → Playable game
 
 Snake_Game_Full_Explanation.docx → Full tutorial (English/Turkish)
 
